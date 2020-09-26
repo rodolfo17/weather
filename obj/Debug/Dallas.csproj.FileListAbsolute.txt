@@ -1,0 +1,8 @@
+C:\Users\rodol\source\repos\Dallas\bin\Debug\Dallas.exe.config
+C:\Users\rodol\source\repos\Dallas\bin\Debug\Dallas.exe
+C:\Users\rodol\source\repos\Dallas\bin\Debug\Dallas.pdb
+C:\Users\rodol\source\repos\Dallas\obj\Debug\Dallas.ProjectInstaller.resources
+C:\Users\rodol\source\repos\Dallas\obj\Debug\Dallas.csproj.GenerateResource.cache
+C:\Users\rodol\source\repos\Dallas\obj\Debug\Dallas.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\Dallas\obj\Debug\Dallas.exe
+C:\Users\rodol\source\repos\Dallas\obj\Debug\Dallas.pdb
